@@ -24,6 +24,15 @@ export const defaultProjects: Project[] = [
     link: "https://example.com",
     tags: ["Design", "UI"],
   },
+
+  //recently added array object
+   {
+    title: "Blog Application",
+    description: "A full-stack blog app built using React and Node.js",
+    link: "https://example.com",
+    tags: ["React", "Vite"],
+  }
+
 ];
 
 export const projectsData: Project[] = [
